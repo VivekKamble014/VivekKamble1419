@@ -28,8 +28,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <!-- (Leave as it is, already perfect) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkamble014&show_icons=true&locale=en&layout=compact" alt="vivekkamble014" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekkamble014&show_icons=true&locale=en" alt="vivekkamble014" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkamble014&" alt="vivekkamble014" /></p>
